@@ -38,7 +38,7 @@
     "core-js": "^3.6.5",
     "eslint": "^6.7.2",
     "eslint-plugin-import": "^2.25.1",
-    "eslint-plugin-vue": "^6.2.2",
+    "eslint-plugin-vue": "^9.9.0",
     "jest": "^27.2.5",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
